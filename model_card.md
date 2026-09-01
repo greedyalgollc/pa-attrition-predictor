@@ -84,4 +84,4 @@ All data is fabricated. No real employee records were used.
 
 ---
 
-*GreedyAlgo Analytics · Hari Vemula*
+*GreedyAlgo Analytics · GreedyAlgo LLC*
