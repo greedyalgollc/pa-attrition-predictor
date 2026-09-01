@@ -7,7 +7,7 @@
 | **Name** | Employee Attrition Predictor v1.0 |
 | **Type** | Binary classification (attrited = 1, retained = 0) |
 | **Algorithm** | Random Forest (sklearn RandomForestClassifier) |
-| **Author** | Hari Vemula · GreedyAlgo Analytics |
+| **Author** | GreedyAlgoLLC · GreedyAlgo Analytics |
 | **Date** | 2026 |
 
 ### Hyperparameters
