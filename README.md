@@ -131,4 +131,4 @@ The notebooks are designed to be run sequentially. `00_data_generation` writes t
 
 ---
 
-*Part of the [People Analytics Portfolio](https://github.com/harivemula) · GreedyAlgo Analytics*
+*Part of the [People Analytics Portfolio](https://github.com/greedyalgollc) · GreedyAlgo Analytics*
