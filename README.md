@@ -9,7 +9,7 @@
 ![Analytics](https://img.shields.io/badge/Analytics-Predictive-2F81F7)
 ![Domain](https://img.shields.io/badge/Domain-People%20Analytics-BC8CFF)
 
-**Author:** Hari Vemula · [GreedyAlgo Analytics](https://github.com/harivemula)  
+**Author:** GreedyAlgo Analytics · [GreedyAlgo Analytics](https://github.com/greedyalgollc)  
 **Analytics Type:** Predictive  
 **Business Function:** Employee Experience · Talent Retention  
 
