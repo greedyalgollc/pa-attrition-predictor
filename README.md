@@ -71,7 +71,7 @@ Feature importances are used in place of SHAP for interpretability, providing a 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/harivemula/pa-attrition-predictor.git
+git clone https://github.com/greedyalgollc/pa-attrition-predictor.git
 cd pa-attrition-predictor
 
 # 2. Install dependencies
